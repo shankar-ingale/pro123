@@ -1,6 +1,4 @@
-# CastVideoLooping-receiver
-
-This Google Cast receiver application shows how to loop video playback. 
+# CastVideoLooping-receiver 
 
 ## Dependencies
 * A Google Cast Receiver Device (eg. Chromecast)
